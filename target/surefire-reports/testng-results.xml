@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-11T23:23:30 CST" name="TestCase01_GET" finished-at="2021-01-11T23:23:32 CST" duration-ms="2066">
+    <groups>
+    </groups>
+    <test started-at="2021-01-11T23:23:30 CST" name="Command line test" finished-at="2021-01-11T23:23:32 CST" duration-ms="2066">
+      <class name="TestCase01_GET">
+        <test-method signature="test_01_GET()[pri:0, instance:TestCase01_GET@2db7a79b]" started-at="2021-01-11T23:23:30 CST" name="test_01_GET" finished-at="2021-01-11T23:23:32 CST" duration-ms="1430" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_01_GET -->
+        <test-method signature="test_02_GET()[pri:0, instance:TestCase01_GET@2db7a79b]" started-at="2021-01-11T23:23:32 CST" name="test_02_GET" finished-at="2021-01-11T23:23:32 CST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_02_GET -->
+      </class> <!-- TestCase01_GET -->
+    </test> <!-- Command line test -->
+  </suite> <!-- TestCase01_GET -->
+</testng-results>
